@@ -1,0 +1,33 @@
+.jumbotron{
+	background: url(http://bijlesbuddy.nl/images/bg_new.jpg) no-repeat center center;
+	background-size: cover;
+	height: 620px !important;
+}
+
+.parallax {
+    background-image: url("https://img1.etsystatic.com/000/0/6005538/il_fullxfull.290071691.jpg");
+
+    min-height: 250px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image: url("https://az616578.vo.msecnd.net/files/2016/09/22/636101125019751178-1207019282_open-book-free-395036.jpg");
+
+    min-height: 250px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/72/5b/4e/725b4e781a29dd3eba48ade23ceb42f5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
